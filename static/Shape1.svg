@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="302px" height="85px" viewBox="0 0 302 85" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Polygon 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Homepage" transform="translate(-316.000000, 0.000000)" fill="#FF969A">
+            <path d="M528.628604,-300.649727 L659.399994,-205.59881 C681.821762,-189.301595 691.203791,-160.422926 682.641449,-134.059672 L632.680301,19.7695706 C624.114704,46.142849 599.539635,64 571.810242,64 L410.189758,64 C382.460365,64 357.885296,46.142849 349.319699,19.7695706 L299.358551,-134.059672 C290.796209,-160.422926 300.178238,-189.301595 322.600006,-205.59881 L453.371396,-300.649727 C475.806959,-316.956969 506.193041,-316.956969 528.628604,-300.649727 Z" id="Polygon-3" transform="translate(491.000000, -132.000000) rotate(21.000000) translate(-491.000000, 132.000000) "></path>
+        </g>
+    </g>
+</svg>

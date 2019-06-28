@@ -1,0 +1,56 @@
+data:
+
+header:
+  title: "The smart way to"
+  highlight: "learn science"
+  description: "Studeo stem brings together world class learning resources to raise attainment and aspirations in science subjects"
+  action: "Start learning now!"
+  comment: "All resources free!"
+  image: "../../assets/CoverImage.svg"
+
+features:
+  - subtitle: "LEARN"
+    color: purple
+    title: "Videos & Notes"
+    description: "Lorem ipsum dolor sit amet, consect adipiscing elit. Aenean commodo ligula eget dolor."
+  - subtitle: "QUIZ"
+    color: blue
+    title: "Quizzes & questions"
+    description: "Lorem ipsum dolor sit amet, consect adipiscing elit. Aenean commodo ligula eget dolor."
+  - subtitle: "PRACTICE"
+    color: pink
+    title: "Test papers"
+    description: "Lorem ipsum dolor sit amet, consect adipiscing elit. Aenean commodo ligula eget dolor."
+  - subtitle: "TEST"
+    color: green
+    title: "Insights & Analytics"
+    description: "Lorem ipsum dolor sit amet, consect adipiscing elit. Aenean commodo ligula eget dolor."
+
+learn:
+  icon: ["fab", "leanpub"]
+  subtitle: "LEARN"
+  title: "Notes, Videos & Diagrams"
+  description: "Lorem ipsum dolor sit amet, consect adipiscing elit. Aenean commodo ligula eget dolor."
+  action: "Try it now"
+  image: "../../assets/TrialBlogPostImage.svg"
+
+quiz:
+  icon: "question-circle"
+  subtitle: "QUIZ"
+  title: "1000s of quiz questions"
+  description: "Lorem ipsum dolor sit amet, consect adipiscing elit. Aenean commodo ligula eget dolor."
+  action: "Try it now"
+  image: "../../assets/TrialBlogPostImage.svg"
+
+research:
+  icon: "search"
+  subtitle: "Research"
+  title: "Efficacy control trials"
+  description: "Lorem ipsum dolor sit amet, consect adipiscing elit. Aenean commodo ligula eget dolor."
+  image: "../../assets/TrialBlogPostImage.svg"
+
+socials:
+  - icon: twitter
+    name: twitter
+    link: "#"
+    color: blue

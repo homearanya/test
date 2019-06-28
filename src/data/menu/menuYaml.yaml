@@ -1,0 +1,9 @@
+routes:
+  home: "/"
+  login: "/login/"
+  signup: "/signup/"
+
+menu:
+  name: "name"
+  to: "to"
+  desktop: "desktop"
